@@ -4,34 +4,13 @@
 
 @font-face {
   font-family: 'AppFont';
-  src: url('../assets/fonts/AppFont.ttf');
+  src: url('./assets/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype');
 }
 
 body {
-  font-family: 'AppFont', Archivo, sans-serif;
+  font-family: 'AppFont', sans-serif;
   background-color: theme('colors.n7.dark');
 }
-
-/* @keyframes marquee-rtl {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(-50%);
-  }
-}
-
-.animate-marquee-rtl {
-  width: max-content;
-  animation: marquee-rtl 40s linear infinite;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .animate-marquee-rtl {
-    animation: none;
-  }
-} */
 
 
 @keyframes marquee {
