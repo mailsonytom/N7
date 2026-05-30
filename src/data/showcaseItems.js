@@ -1,11 +1,11 @@
-import iphone1 from "@/assets/iphone1.png"
-import iphone2 from "@/assets/iphone2.png"
-import iphone3 from "@/assets/iphone3.png"
+import iPhone1 from "@/assets/iPhone1.png"
+import iPhone2 from "@/assets/iPhone2.png"
+import iPhone3 from "@/assets/iPhone3.png"
 
 const showcaseItems = [
   {
     id: 1,
-    image: iphone1,
+    image: iPhone1,
     heading: 'Fully compliant with regulatory requirement',
     description:
       'The governance of risk management with regulations is achieved by our risk management framework that is fully integrated to work with digital bank’s operational-risk protocols and procedures.',
@@ -17,7 +17,7 @@ const showcaseItems = [
   },
   {
     id: 2,
-    image: iphone2,
+    image: iPhone2,
     heading: 'No legacy IT systems',
     description:
       'Our Digital Banking solution and multilayered approach help financial institutions take advantage of digital transformation by ensuring customer trust and regulatory compliance.',
@@ -29,7 +29,7 @@ const showcaseItems = [
   },
   {
     id: 3,
-    image: iphone3,
+    image: iPhone3,
     heading: 'No traditional branches',
     description:
       'Our Digital Banking out-of-the-box helps you to accelerate innovation while reducing risks and optimising operational costs for a seamless branchless experience.’',
