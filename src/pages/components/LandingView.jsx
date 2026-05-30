@@ -1,6 +1,6 @@
-import AndreaPiacquadio from '../../../assets/AndreaPiacquadio.png'
-import Balance from '../../../assets/Balance.png'
-import RecentActivity from '../../../assets/RecentActivity.png'
+import AndreaPiacquadio from '@/assets/AndreaPiacquadio.png'
+import Balance from '@/assets/Balance.png'
+import RecentActivity from '@/assets/RecentActivity.png'
 import RequestDemoButton from '../../components/RequestDemoButton'
 import trustedCompanies from '../../data/trustedCompanies'
 

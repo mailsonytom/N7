@@ -1,9 +1,9 @@
 import RoundCheck from '../../components/RoundCheck'
 import RequestDemoButton from '../../components/RequestDemoButton'
 import LinkButton from '../../components/LinkButton'
-import CloudBasedRight from "../../../assets/CloudBasedRight.png"
-import Rectangle80 from "../../../assets/Rectangle80.png"
-import MacBookGraph1 from "../../../assets/MacBookGraph1.png"
+import CloudBasedRight from "@/assets/CloudBasedRight.png"
+import Rectangle80 from "@/assets/Rectangle80.png"
+import MacBookGraph1 from "@/assets/MacBookGraph1.png"
 import benefits from "../../data/benefits"
 
 function BenefitsSection() {

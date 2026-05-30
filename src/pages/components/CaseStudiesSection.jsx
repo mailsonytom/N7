@@ -1,12 +1,10 @@
 import caseStudies from '../../data/caseStudies'
-import DigitalBankIcon from "../../../assets/DigitalBankIcon.png"
+import DigitalBankIcon from "@/assets/DigitalBankIcon.png"
 import LinkButton from '../../components/LinkButton'
 
 function CaseStudiesSection() {
   const activeIndex = 0
   const activeStudy = caseStudies[activeIndex]
-  const currentPage = activeIndex + 1
-  const totalPages = caseStudies.length
 
   return (
     <section className="mb-16">

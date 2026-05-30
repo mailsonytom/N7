@@ -1,7 +1,7 @@
-import ScrollN7Icon from '../../assets/ScrollN7Icon.png'
-import N7 from '../../assets/N7.png'
-import WaveAnimation from '../../assets/WaveAnimation.png'
-import CB7 from '../../assets/CB7.png'
+import ScrollN7Icon from '@/assets/ScrollN7Icon.png'
+import N7 from '@/assets/N7.png'
+import WaveAnimation from '@/assets/WaveAnimation.png'
+import CB7 from '@/assets/CB7.png'
 
 const headlines = [
   { type: 'image', content: ScrollN7Icon, alt: 'N7 Icon' },

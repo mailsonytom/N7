@@ -1,4 +1,4 @@
-import Zoomerr from '../../assets/Zoomerr.png'
+import Zoomerr from '@/assets/Zoomerr.png'
 
 const caseStudies = Array.from({ length: 12 }, (_, index) => ({
   id: index + 1,

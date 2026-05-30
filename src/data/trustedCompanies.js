@@ -1,9 +1,9 @@
-import Shells from '../../assets/Shells.png'
-import SmartFinder from '../../assets/SmartFinder.png'
-import Zoomerr from '../../assets/Zoomerr.png'
-import ArtVenue from '../../assets/ArtVenue.png'
-import Kontrastr from '../../assets/Kontrastr.png'
-import WavesMarathon from '../../assets/WavesMarathon.png'
+import Shells from '@/assets/Shells.png'
+import SmartFinder from '@/assets/SmartFinder.png'
+import Zoomerr from '@/assets/Zoomerr.png'
+import ArtVenue from '@/assets/ArtVenue.png'
+import Kontrastr from '@/assets/Kontrastr.png'
+import WavesMarathon from '@/assets/WavesMarathon.png'
 
 const trustedCompanies = [
     {

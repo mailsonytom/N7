@@ -1,4 +1,4 @@
-import DigitalBankIcon from "../../assets/DigitalBankIcon.png"
+import DigitalBankIcon from "@/assets/DigitalBankIcon.png"
 
 function InsightFeaturedCard({ insight }) {
   return (

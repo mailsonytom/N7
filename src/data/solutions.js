@@ -1,8 +1,8 @@
-import CoreBankingCB7 from '../../assets/CoreBankingCB7.png'
-import DigitalBankingN7 from '../../assets/DigitalBankingN7.png'
-import OpenBanking from '../../assets/OpenBanking.png'
-import LOS from '../../assets/LOS.png'
-import LMS from '../../assets/LMS.png'
+import CoreBankingCB7 from '@/assets/CoreBankingCB7.png'
+import DigitalBankingN7 from '@/assets/DigitalBankingN7.png'
+import OpenBanking from '@/assets/OpenBanking.png'
+import LOS from '@/assets/LOS.png'
+import LMS from '@/assets/LMS.png'
 
 const solutions = [
   {

@@ -1,6 +1,6 @@
-import iphone1 from "../../assets/iphone1.png"
-import iphone2 from "../../assets/iphone2.png"
-import iphone3 from "../../assets/iphone3.png"
+import iphone1 from "@/assets/iphone1.png"
+import iphone2 from "@/assets/iphone2.png"
+import iphone3 from "@/assets/iphone3.png"
 
 const showcaseItems = [
   {
