@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'AppFont';
-  src: url('./assets/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype');
+  src: url('../assets/fonts/AppFont.ttf') format('truetype');
 }
 
 body {
